@@ -37,7 +37,7 @@ class HomeWork2 {
             System.out.println("I can't walk");
         }
     }
-//*exercise 3
+//*exercise 3 
         static int add(int a, int b){
             int c = a+b;
             return c;
