@@ -1,5 +1,5 @@
 /**
- *Java Basic. Home work - 3.
+ *Java Basic. Home work - 9.
  *
  * @author Maksym Samohorodskyi
  * @todo 05.10
