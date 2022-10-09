@@ -1,3 +1,11 @@
+/**
+ *Java Basic. Homework - 9.
+ *Task 2
+ * @author Maksym Samohorodskyi
+ * @todo 05.10
+ * @date 09.10
+ **/
+
 public class LiveObjects {
     public static void main(String[] args) {
         Human human = new Human("Smith", "John", 35);
